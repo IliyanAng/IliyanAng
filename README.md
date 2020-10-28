@@ -4,6 +4,3 @@
 <a href="https://github.com/IliyanAng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliyanAng&langs_count=8&layout=compact&hide_border=true" />
 </a>
-<a href="https://github.com/IliyanAng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=IliyanAng&hide_border=true&custom_title=Coding+Activity+By+WakaTime" />
-</a>
